@@ -14,6 +14,7 @@ Tools: Jupyter Notebook, Git
 
 Domains of Interest: Artificial Intelligence, Machine Learning, Data Science
 
+
 Currently Learning
 
 Machine Learning algorithms & model building
@@ -25,6 +26,7 @@ Applying AI for real-world use cases
 📌 Featured Projects🔹 Lexi AI
 
 A multifunctional personal assistant with capabilities like:
+
 ✉️ Sending emails through voice/text commands
 📰 Fetching the top 5 news from an API
 🌦️ Getting live weather updates
